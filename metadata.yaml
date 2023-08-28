@@ -1,11 +1,16 @@
 _repo: Outline-history-of-Greek-religion_71402
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71402-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnell, Lewis Richard
     gutenberg_agent_id: '56212'
     url: http://www.gutenberg.org/2009/agents/56212
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71402#Outline-history-of-Greek-religion
 gutenberg_issued: '2023-08-14'
 identifiers:
   gutenberg: '71402'
